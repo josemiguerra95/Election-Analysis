@@ -26,7 +26,7 @@ Winning Percentage: 73.8%
 
 
 ## Election audit results
-![Results](election results.PNG)
+![Results](/election results.PNG)
 
 
 ## Summary 
